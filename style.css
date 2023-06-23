@@ -287,3 +287,22 @@ box-sizing: border-box !important;
 margin: 0 !important;
 padding: 0 !important;
 }
+
+.tableFoot{
+    border: 1px solid rgba(211, 211, 211,0.3) !important;
+    font-size: 12px;
+    text-decoration: none;
+    text-transform: capitalize;
+    cursor: pointer;
+}
+.para{
+    font-size: 10px;
+}
+.para a{
+    text-transform: capitalize;
+    text-decoration: none;
+}
+.lasttext{
+    font-size: 10px;
+
+}
